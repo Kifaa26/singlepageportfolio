@@ -22,6 +22,13 @@
     color: #42b983;
   }
 
+  /* .navbar {
+    position: sticky!important;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  } */
+
 /* Universal selector*/
 
 /* Custom variables*/
